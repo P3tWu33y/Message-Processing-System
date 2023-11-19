@@ -14,7 +14,7 @@ Before running the services, make sure you have the following installed:
 Use the file Create_Schema.sql and execute the commands in your MSSQL so it will create the database.
 
 --SQL username and password must fit the code in which the username and password is:
-"Server=localhost; Database=main; User Id=sa; Password=220497;";
+"Server=localhost; Database=main; User Id=sa; Password=220497;"
 
 
 
