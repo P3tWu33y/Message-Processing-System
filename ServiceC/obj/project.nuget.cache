@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "nMXoqVcgZ0FC7J84ksSV6EeaADoWJDyhhhSxstM8pXqy9gPunxuPd7HlRJFjtSmRbIELiL55Mk85cRh0Hl/zQA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Silent\\Desktop\\MyProject\\ProjectC\\ProjectC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Silent\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Silent\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\Silent\\.nuget\\packages\\stackexchange.redis\\2.7.4\\stackexchange.redis.2.7.4.nupkg.sha512",
+    "C:\\Users\\Silent\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
