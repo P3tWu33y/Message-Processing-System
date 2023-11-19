@@ -30,5 +30,5 @@ dotnet restore
 cd ../ServiceC
 dotnet restore
 
--Now you can run Service B and Service C and when they're loaded and runnning you may run ServiceA to generate data for the first column 
+-Now you can run Service B and Service C and when they're loaded and runnning you may run ServiceA to generate data for the first column --
 (if needed run it multiple times just to create more data).
