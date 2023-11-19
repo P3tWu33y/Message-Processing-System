@@ -16,19 +16,21 @@ Use the file Create_Schema.sql and execute the commands in your MSSQL so it will
 # Run your Redis Server:
 redis-server --daemonize yes
 
-## Install dependencies for each service:
+## Install dependencies for each service and build:
 
 # ServiceA
 cd ServiceA
-dotnet restore
+dotnet restore && dotnet build
 
 # ServiceB
 cd ../ServiceB
-dotnet restore
+dotnet restore && dotnet build
 
 # ServiceC
 cd ../ServiceC
-dotnet restore
+dotnet restore && dotnet build
 
--Now you can run Service B and Service C and when they're loaded and runnning you may run ServiceA to generate data for the first column --
+-Now you can run Service B and Service C and when they're loaded and runnning you may run ServiceA to generate data --
 (if needed run it multiple times just to create more data).
+
+
